@@ -1,2 +1,5 @@
 # node-first
-write firstly
+
+Hi maozemin!
+
+maozemin here,I like Node.js.
